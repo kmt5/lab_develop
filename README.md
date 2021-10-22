@@ -4,6 +4,9 @@
 
 # 設計
 
-# 備考
+# 参考
+- https://www.membersedge.co.jp/blog/raspberry-pi%E3%81%A8nfc%E3%82%BF%E3%82%B0%E3%81%A7%E8%87%AA%E5%AE%85%E3%81%AE%E6%B6%88%E8%80%97%E5%93%81%E7%AE%A1%E7%90%86%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/
+- https://www.membersedge.co.jp/blog/raspberry-pi%E3%81%A8nfc%E3%82%BF%E3%82%B0%E3%81%A7%E8%87%AA%E5%AE%85%E3%81%AE%E6%B6%88%E8%80%97%E5%93%81%E7%AE%A1%E7%90%86%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F/
+- https://moriokalab.com/news/75
 
-#helloworl
+# helloworld
