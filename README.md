@@ -48,6 +48,6 @@
 - https://monomonotech.jp/kurage/raspberrypi/nfc.html
 - https://dev-kk2.hatenablog.com/entry/2018/01/09/174220
 - https://www.farend.co.jp/blog/2018/03/faye/
-- https:u//qiita.com/mono_taro/items/8bac24c5768da0828f2b#動機
+- https://qiita.com/mono_taro/items/8bac24c5768da0828f2b#%E5%8B%95%E6%A9%9F
 
 # helloworld
